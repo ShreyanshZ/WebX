@@ -1,0 +1,61 @@
+*{margin:0;}
+
+	body{
+		font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
+		background: #81CFE0;
+	}
+  h1{color: rgb(59, 65, 77)}
+  h2{
+  	text-align: center;
+  }
+  .box { 
+  	font-size: 1.2em;
+    padding:0.4em;
+    background-color: lightgrey;
+    opacity:0.7;  
+    border-style: solid;  
+    border-width: 0px 0px 1px 0px;  
+    border-color: brown; 
+    outline:0; 
+  } 
+
+  .btn{
+
+  }
+
+  .listitems:hover{
+  	font-weight: bold;
+  }
+
+  .tdlist{
+  	font-size: 1.2em;
+  	display: ;
+  	padding: 15px;
+  }
+
+
+  .paper{
+  	background: #FFD699;
+  	padding: 1em;
+
+  	-webkit-box-shadow: 1px 12px 21px -12px rgba(0,0,0,0.6);
+-moz-box-shadow: 1px 12px 21px -12px rgba(0,0,0,0.6);
+box-shadow: 1px 12px 21px -12px rgba(0,0,0,0.6);
+  }
+
+  .txt{
+  	width: auto; 
+  }
+
+  .inl{display: inline;}
+  .done{  	
+ 
+  }
+
+  .del{
+  	
+  }
+
+  .addn{
+  	margin-top: 2em;
+  }
